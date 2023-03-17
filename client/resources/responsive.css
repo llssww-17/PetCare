@@ -1,0 +1,21 @@
+@media screen and (min-width:1024px) {
+
+}
+
+@media screen and (max-width:767px){
+    .App {
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.1fr 0.1fr 3.7fr 0.1fr;
+        grid-template-areas:
+            "header"
+            "nav"
+            "main"
+            "footer";
+    }
+    
+    nav > ul {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+}

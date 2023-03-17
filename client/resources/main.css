@@ -1,0 +1,107 @@
+
+.App {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 0fr;
+    grid-template-rows: 0.2fr 2.6fr 0.2fr;
+    grid-template-areas:
+        "header header header"
+        "nav main main"
+        "nav footer footer";
+}
+header {
+    width: 100%;
+    color: black;
+    background: linear-gradient(to bottom, #e2bda9, #f1d79f,  #e1dfc2 );
+    padding: 1rem;
+    grid-area: header;
+    text-align: center;
+    line-height: 100px;
+    /* background-image: url("../images/dog.png"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+#btn1{
+    width:70px;
+    height:20px;
+    background-color: rgba(238, 238, 238, 0.637);
+
+    border:1px solid #000; 
+    border-radius: 30px 30px;
+
+    position: absolute;
+    right: 15px;
+    top: 90px;
+   }
+
+
+footer {
+    width: 100%;
+    background-color: #FDF5D2;
+    padding: 1rem;
+    grid-area: footer;
+}
+
+nav {
+    height: 100%;
+    width: 100%;
+    grid-area: nav;
+    background-color:#e1dfc2 ;
+    /* background: linear-gradient(to bottom,  #f1d79f,  #e1dfc2 ); */
+}
+
+
+nav > ul > li{
+    padding: 1rem;
+    text-align: center;
+}
+
+section {
+    column-width: 50em;
+    padding: 2em 12em;
+}
+
+
+.tr-style {
+    background-color: #e1dfc2	;
+}
+
+.th-style {
+    padding: 1rem;
+    color: black;
+}
+
+td {
+    padding: 1rem;
+    text-align: center;
+}
+
+button {
+    margin-top: 5px;
+    width:100px;
+    display :inline;
+}
+
+.video-wrap {position:relative; padding-bottom:56.25%; padding-top:30; height:0; overflow:hidden;}
+.video-wrap iframe, .video-wrap object, .video-wrap embed {position:absolute; top:0; left:0; height:100%;}
+
+.register-table {
+    border: 1px solid #eee;
+    margin-bottom: 2rem;
+}
+
+.register-table > tr > th {
+    width:20%;
+    background-color: #FFEAD0;
+}
+
+.register-table > tr > td {
+    width:80%;
+    padding:0.5rem;
+}
+
+tr.tr-hover:hover {
+    background-color: lightsalmon;
+}

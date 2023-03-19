@@ -42,5 +42,5 @@ $ node .\server\module\Server.js
 - 게시판 CRUD
 <img width="80%" src="https://user-images.githubusercontent.com/87286246/226095117-8a4f49a9-e693-4648-9d0c-166dd1a74b53.png">
 
-- 소개영상
+- 소개영상 페이지
 <img width="80%" src="https://user-images.githubusercontent.com/87286246/226095134-752166e1-c0ac-451f-aeb3-7fd4cd6433a5.png">

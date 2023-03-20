@@ -27,19 +27,17 @@ $ node .\server\module\Server.js
 </div></br>
 
 ## :computer: 실행 화면
-- 로그인
+- 메인페이지
 <img src="https://user-images.githubusercontent.com/87286246/226094579-bac17795-47b9-4b0f-b7c8-191a50df2240.png" height="576px" width="636px">
 
 - 회원가입
 <img src="https://user-images.githubusercontent.com/87286246/226094998-41c8aa1c-495d-47fd-84a9-1f5f08dfd686.png" height="576px" width="636px">
 
-- 메인페이지
+- 게시판
 <img src="https://user-images.githubusercontent.com/87286246/226095090-9ef8f18d-a2ca-4a48-9ae1-5f758867e9b7.png" height="576px" width="636px">
 
-- 게시물 등록
-<img src="https://user-images.githubusercontent.com/87286246/226095113-87995a95-6d62-4a12-b0f5-bd54f4eca23f.png" height="576px" width="636px">
-
 - 게시판 CRUD
+<img src="https://user-images.githubusercontent.com/87286246/226095113-87995a95-6d62-4a12-b0f5-bd54f4eca23f.png" height="576px" width="636px">
 <img src="https://user-images.githubusercontent.com/87286246/226095117-8a4f49a9-e693-4648-9d0c-166dd1a74b53.png" height="576px" width="636px">
 
 - 소개영상 페이지

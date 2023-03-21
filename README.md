@@ -1,6 +1,12 @@
 # :dog: PetCare
 
-<p>반려동물을 소유하고 있는 개인과 케어 서비스를 제공할 수 있는 기업 또는 개인 간에 매칭을 시켜주는 서비스입니다.</p></br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/87286246/226095090-9ef8f18d-a2ca-4a48-9ae1-5f758867e9b7.png" height="576px" width="636px"></img>
+</div>
+<br />
+
+<p>반려동물을 소유하고 있는 개인과 케어 서비스를 제공할 수 있는 기업 또는 개인 간에 매칭을 시켜주는 서비스입니다.</p>
+</br>
 
 ## :date: 프로젝트 기간
 <p>2022년 10월 4일 ~ 10월 18일</p></br>
